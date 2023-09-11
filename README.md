@@ -1,7 +1,14 @@
 # Superstore-Sales-Analysis
 
+![](https://github.com/blessingekwere/Superstore-Sales-Analysis/blob/main/Superstore%201.jpg)
+Photo Source: Google
+
 ## Introduction
 In the dynamic landscape of retail, the pursuit of profitability is an ever-present challenge for business managers. The ability to identify and fortify weak areas within an operation can often be the difference between success and stagnation. In this context, we delve into the world of the Superstore, a thriving retail entity. The Superstore has entrusted us, as business managers, with the critical task of scrutinizing its sales data to pinpoint those elusive weak links that, once fortified, can pave the way for enhanced profitability.
+
+![](https://github.com/blessingekwere/Superstore-Sales-Analysis/blob/main/Superstore%202.jpg)
+Photo Source: Google
+
 
 ## Aim of the project
 Our aim in this comprehensive analysis report is two-fold. Firstly, we seek to unearth the hidden challenges within the Superstore's sales operations, be they in product categories, customer segments, geographical regions, or operational processes. These challenges may manifest as underperforming product lines, untapped market segments, or inefficiencies in the supply chain.
@@ -38,6 +45,12 @@ The formatted dataset was then integrated into Power BI Desktop for further anal
 This meticulous data cleaning and preprocessing stage ensured that the dataset was primed for analysis, promoting the accuracy and reliability of subsequent findings and insights in this project.
 
 ## Dashboard
+
+![](https://github.com/blessingekwere/Superstore-Sales-Analysis/blob/main/Superstore%20Analysis-1.jpg)
+Sales Dashboard
+
+![](https://github.com/blessingekwere/Superstore-Sales-Analysis/blob/main/Superstore%20Analysis-2.jpg)
+Profit Dashboard
 
 You can click [here](https://app.powerbi.com/view?r=eyJrIjoiODRmMzhiOWEtOTk4NS00ZjhhLTg3Y2QtYzEzOGRhNGY2MjFlIiwidCI6IjMwMDM2MmQ4LTZkNmItNGY5ZC04YjQwLTUwZjhkNjkxNmVjZCJ9) to view the interactive dashboard.
 
@@ -130,3 +143,9 @@ In conclusion, our analysis of the superstore's sales and profit data has provid
 By leveraging these insights and implementing the recommended strategies, the superstore can drive growth in both sales and profitability. A data-driven approach, customer-centricity, efficient operations, and a focus on high-margin products are key pillars to achieve sustainable success in a competitive market.
 
 The superstore is well-positioned to not only meet but exceed customer expectations while optimizing its business operations. With a commitment to continuous improvement and adaptability to changing market dynamics, the superstore can navigate challenges and thrive in the ever-evolving retail landscape.
+
+Thank you for reading. Your comments, suggestions and recommendations will be highly appreciated
+
+Kindly comment with me on [Twitter](https://twitter.com/Eddie_Gregs?t=dF3996shVxvPJTePTtxDdw&s=09) and [LinkedIn](www.linkedin.com/in/blessing-ekwere-857326216)
+
+See you next time🙂
