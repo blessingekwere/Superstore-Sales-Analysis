@@ -37,6 +37,9 @@ The formatted dataset was then integrated into Power BI Desktop for further anal
 
 This meticulous data cleaning and preprocessing stage ensured that the dataset was primed for analysis, promoting the accuracy and reliability of subsequent findings and insights in this project.
 
+## Dashboard
+
+You can click [here](https://app.powerbi.com/view?r=eyJrIjoiODRmMzhiOWEtOTk4NS00ZjhhLTg3Y2QtYzEzOGRhNGY2MjFlIiwidCI6IjMwMDM2MmQ4LTZkNmItNGY5ZC04YjQwLTUwZjhkNjkxNmVjZCJ9) to view the interactive dashboard.
 
 ## Insights
 #### Sales Analysis
