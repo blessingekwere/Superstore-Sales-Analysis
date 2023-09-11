@@ -1,13 +1,13 @@
 # Superstore-Sales-Analysis
 
 ![](https://github.com/blessingekwere/Superstore-Sales-Analysis/blob/main/Superstore%201.jpg)
-Photo Source: Google
+*Photo Source: Google*
 
 ## Introduction
 In the dynamic landscape of retail, the pursuit of profitability is an ever-present challenge for business managers. The ability to identify and fortify weak areas within an operation can often be the difference between success and stagnation. In this context, we delve into the world of the Superstore, a thriving retail entity. The Superstore has entrusted us, as business managers, with the critical task of scrutinizing its sales data to pinpoint those elusive weak links that, once fortified, can pave the way for enhanced profitability.
 
 ![](https://github.com/blessingekwere/Superstore-Sales-Analysis/blob/main/Superstore%202.jpg)
-Photo Source: Google
+*Photo Source: Google*
 
 
 ## Aim of the project
@@ -47,10 +47,10 @@ This meticulous data cleaning and preprocessing stage ensured that the dataset w
 ## Dashboard
 
 ![](https://github.com/blessingekwere/Superstore-Sales-Analysis/blob/main/Superstore%20Analysis-1.jpg)
-Sales Dashboard
+*Sales Dashboard*
 
 ![](https://github.com/blessingekwere/Superstore-Sales-Analysis/blob/main/Superstore%20Analysis-2.jpg)
-Profit Dashboard
+*Profit Dashboard*
 
 You can click [here](https://app.powerbi.com/view?r=eyJrIjoiODRmMzhiOWEtOTk4NS00ZjhhLTg3Y2QtYzEzOGRhNGY2MjFlIiwidCI6IjMwMDM2MmQ4LTZkNmItNGY5ZC04YjQwLTUwZjhkNjkxNmVjZCJ9) to view the interactive dashboard.
 
@@ -63,18 +63,18 @@ You can click [here](https://app.powerbi.com/view?r=eyJrIjoiODRmMzhiOWEtOTk4NS00
   
 * Consumer Segment Sales: The Consumer segment generated the highest sales, totaling $1,161,401.35, followed by Corporate at $706,146.37 and Home Office at $429,653.15. Consumer accounted for 50.56% of total sales.
   
-* Shipping Mode Comparison: Standard Class shipping mode recorded the highest sales at $1,358,215.74, surpassing Same Day by a significant margin of 958.10% (Same Day had sales of $128,363.13). The top shipping modes were Standard Class, Second Class, First Class, and Same Day, with Standard Class contributing to 59.12% of total sales.
+* Shipping Mode Comparison: Standard Class shipping mode recorded the highest sales at $1,358,215.74, surpassing Same Day which had sales of $128,363.13. The top shipping modes were Standard Class, Second Class, First Class, and Same Day, with Standard Class contributing to 59.12% of total sales.
   
 * Regional Sales Analysis: The West region achieved the highest sales, totaling $725,457.82, followed by the East region with $678,781.24. The Central region recorded sales of $501,239.89, while the South region reported sales of $391,721.91.
 
 #### Profit Analysis
-* Category Profit Comparison: Technology also led in terms of profit, generating $145,454.95, which was 688.32% higher than Furniture's profit of $18,451.27. The top categories by profit were Technology at $145,454.95, Office Supplies at $122,490.80, and Furniture at $18,451.27. Technology contributed 50.79% of the total profit.
+* Category Profit Comparison: Technology also led in terms of profit, generating $145,454.95, which was higher than Furniture's profit of $18,451.27. The top categories by profit were Technology at $145,454.95, Office Supplies at $122,490.80, and Furniture at $18,451.27. Technology contributed 50.79% of the total profit.
 
-* Top Subcategories by Profit: Copiers stood out with the highest profit at $55,617.88, surpassing Binders by 84.03% (Binders had a profit of $30,221.48). Copiers represented 26.95% of the total profit, with profits ranging from $30,221.48 to $55,617.88 across all 5 subcategories.
+* Top Subcategories by Profit: Copiers stood out with the highest profit at $55,617.88, surpassing Binders which had a profit of $30,221.48. Copiers represented 26.95% of the total profit, with profits ranging from $30,221.48 to $55,617.88 across all 5 subcategories.
 
 * Profit by Consumer Segment: The Consumer segment generated the highest profit, totaling $134,119.21, followed by Corporate at $91,979.13 and Home Office at $60,298.68. Consumer contributed to 46.83% of the total profit.
 
-* Shipping Mode Profit Comparison: Standard Class shipping mode recorded the highest profit at $164,088.79, surpassing Same Day by 932.54% (Same Day had a profit of $15,891.76). The top shipping modes by profit were Standard Class, Second Class, First Class, and Same Day, with Standard Class contributing to 57.29% of total profit.
+* Shipping Mode Profit Comparison: Standard Class shipping mode recorded the highest profit at $164,088.79, surpassing Same Day which had a profit of $15,891.76. The top shipping modes by profit were Standard Class, Second Class, First Class, and Same Day, with Standard Class contributing to 57.29% of total profit.
 
 * Top Profitable States: The top 3 states by profit were California with $76,381.39, New York with $74,038.55, and Washington with $33,402.65.
 
